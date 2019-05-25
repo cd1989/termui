@@ -75,7 +75,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Set `termbox-go` backend to 256 colors by default
-- Moved widgets to `github.com/gizak/termui/widgets`
+- Moved widgets to `github.com/cd1989/termui/widgets`
 - Rewrote widgets (check examples and code)
 - Rewrote grid
   - grids are instantiated locally instead of through `termui.Body`
@@ -115,7 +115,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename Par widget to Paragraph
 - Rename MBarChart widget to StackedBarChart
 
-[#126]: https://github.com/gizak/termui/pull/126
+[#126]: https://github.com/cd1989/termui/pull/126
 
-[Unreleased]: https://github.com/gizak/termui/compare/v3.0.0...HEAD
-[3.0.0]: https://github.com/gizak/termui/compare/v2.3.0...v3.0.0
+[Unreleased]: https://github.com/cd1989/termui/compare/v3.0.0...HEAD
+[3.0.0]: https://github.com/cd1989/termui/compare/v2.3.0...v3.0.0

@@ -8,7 +8,7 @@ import (
 	"image"
 	"image/color"
 
-	. "github.com/gizak/termui"
+	. "github.com/cd1989/termui"
 )
 
 type Image struct {
